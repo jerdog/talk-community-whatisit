@@ -6,15 +6,6 @@
 #### Jeremy Meiss
 Head of Community @ Auth0<br />
 
----
-## About Me
-@ul
-- 10&plus; years in Community/DevRel
-- Community/DevRel Consultant
-- Unable to do tricks
-@ulend
-
-
 ---?image=assets/image/watermelon.jpg&size=auto 90%&opacity=60
 
 ## Community == Watermelon?
@@ -202,5 +193,5 @@ Jeff Atwood, creator of Stack Overflow, said that "Real community is so much mor
 <i class="fa fa-chrome"></i> https://jmeiss.me<br />
 <i class="fa fa-envelope"></i> jeremy.meiss@gmail
 
-Repo: http://bit.ly/dcberlin18repo<br />
-Slides: http://bit.ly/dcberlin18slides
+Repo: http://bit.ly/dcnyc18repo<br />
+Slides: http://bit.ly/dcnyc18slides
