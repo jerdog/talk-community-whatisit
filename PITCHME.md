@@ -1,6 +1,6 @@
 # Community
 ### What is it good for?
-![conflogo](assets/image/conflogo.png =250x250)
+![conflogo](assets/image/conflogo.png | width=250)
 ---
 ![headshot](assets/image/headshot.jpg)
 #### Jeremy Meiss
