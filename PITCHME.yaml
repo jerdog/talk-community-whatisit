@@ -6,5 +6,5 @@ highlight : atom-one-dark
 transition : fade
 mousewheel : true
 published : true
-footnote : "community - what is it good for?"
+footnote : "community building for your apps"
 # background-opacity : 50
