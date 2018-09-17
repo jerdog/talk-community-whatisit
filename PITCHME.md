@@ -1,5 +1,4 @@
-# Community
-### What is it good for?
+## Community Building for your Apps
 ![conflogo](assets/image/conflogo.png)
 ---
 ![headshot](assets/image/headshot.jpg)
